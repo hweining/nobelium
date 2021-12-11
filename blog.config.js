@@ -2,7 +2,7 @@ const BLOG = {
   title: 'love&peace',
   author: '𝐑𝐲𝐨𝐬𝐮𝐤𝐞 𝐓𝐚𝐤𝐚𝐡𝐚𝐬𝐡𝐢',
   email: 'hweining2014#gmail.com',
-  link: 'https://ryosuke26248762.vercel.app',
+  link: 'https://blog.hweining.cf',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
