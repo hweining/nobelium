@@ -14,8 +14,6 @@ const BlogPost = ({ post }) => {
             <time className="flex-shrink-0 text-gray-600 dark:text-gray-400">
               {formatDate(post?.date?.start_date || post.createdTime, BLOG.lang)}
             </time>
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5012398179470697"
-     crossorigin="anonymous"></script>  
           </header>
           <main>
             <p className="hidden md:block leading-8 text-gray-700 dark:text-gray-300">
